@@ -44,6 +44,8 @@
     - Optimization (*C*):
         - A slower version of *numpy* that performs some matrix operations.
             - Given skeleton codes, modified it to perform much faster using SIMD instructions and OpenMP.
+    - MapReduce and Spark (*Python, Spark*):
+        - Naive Bayes classifier with a Bag of Words model in Spark that predicts Yelp review ratings using MapReduce programming paradigm.
 - **CS 188 - *Introduction to Artificial Intelligence*:**
     - Pacman (*Python*):
         - Search:
