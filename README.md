@@ -30,7 +30,7 @@
     - Database (*Java, SQL*):
         - A small version of Database Management System(DBMS), as well as a Domain Specific Language(DSL) which a user can interact with the database.
     - Bear Maps (*Java*):
-        - The backend of web mapping application which user can do following things: *scroll, zoom, getting direction*.
+        - A backend of web mapping application which user can do following things: *scroll, zoom, getting direction*.
         - The backend takes in URL from browser and generate an image corresponding to a map of the region specified inside the URL being displayed by the front-end.
         - Quad-Tree data structure stores OpenStreetMap dataset(*Google*).
 - **CS 61C - *Machine Structures*:**
@@ -46,12 +46,16 @@
             - Given skeleton codes, modified it to perform much faster using SIMD instructions and OpenMP.
 - **CS 188 - *Introduction to Artificial Intelligence*:**
     - Pacman (*Python*):
-        - Search: Pacman agent who finds paths through a maze world, both to reach particular location and to collect food efficiently.
+        - Search:
+            - Pacman agent who finds paths through a maze world, both to reach particular location and to collect food efficiently.
             - Depth-First-Search, Breath-First-Search, Uniform Cost Search, A* Search algorithms along with some heuristic designs.
-        - Multi-agent Search: Agents for the classic version of Pacman, including ghosts.
+        - Multi-agent Search:
+            - Agents for the classic version of Pacman, including ghosts.
             - Reflex agent and adversarial search agent who act optimally at given environment. (minimax, alpha-beta pruning, expectiminimax algorithms)
-        - Reinforcement Learning: Agents who learns how to act optimally with maximum rewards possible. (Value iteration and Q-learning algorithms.)
-        - Bayes' Nets: Inference algorithms for Bayes Nets, specifically variable elimination and valu-of-perfect-information computation for agents to act optimally.
+        - Reinforcement Learning:
+            - Agents who learns how to act optimally with maximum rewards possible. (Value iteration and Q-learning algorithms.)
+        - Bayes' Nets:
+            - Inference algorithms for Bayes Nets, specifically variable elimination and valu-of-perfect-information computation for agents to act optimally.
     - Machine Learning (*Python*):
         - Neural networks to classify handwritten digits, approximate some math functions such as trigonometry functions, perform deep Q-learning, and language identification.
 - **CS 186 - *Introduction to Database Systems*:**
