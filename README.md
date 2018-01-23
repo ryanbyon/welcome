@@ -10,11 +10,11 @@
 - **EE 16A & B** : Designing Information Devices and Systems.
 - **CS 61A** : The Structure and Interpretation of Computer Programs.
 - **CS 61B** : Data Structures.
-- **CS 61C** : Machine Structures.
+- **CS 61C** : Great Ideas in Computer Architecture - Machine Structures.
 - **CS 70** : Discrete Mathematics and Probability Theory.
 - **CS 188** : Introduction to Artificial Intelligence.
-- **CS 170** : Efficient Algorithms and Intractable Problems. *(Current)*
-- **CS 186** : Introduction to Database Systems. *(Current)*
+- **CS 170** : Efficient Algorithms and Intractable Problems. *(In progress)*
+- **CS 186** : Introduction to Database Systems. *(In progress)*
 
 ## List of Projects:
 ###### *Please email to gain read-only access.*
@@ -33,7 +33,7 @@
         - A backend of web mapping application which user can do following things: *scroll, zoom, getting direction*.
         - The backend takes in URL from browser and generate an image corresponding to a map of the region specified inside the URL being displayed by the front-end.
         - Quad-Tree data structure stores OpenStreetMap dataset(*Google*).
-- **CS 61C - *Machine Structures*:**
+- **CS 61C - *Great Ideas in Computer Architecture - Machine Structures*:**
     - Trie and Ternary Search Trees (*C*):
         - A dictionary of words using Trie and Ternary Search Tree data structures which user can add/remove/search words.
     - RISC-V Instruction Set Emulator (*C, RISC-V*):
