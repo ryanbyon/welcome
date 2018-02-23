@@ -14,8 +14,10 @@
 - **CS 61C** : Great Ideas in Computer Architecture - Machine Structures.
 - **CS 70** : Discrete Mathematics and Probability Theory.
 - **CS 188** : Introduction to Artificial Intelligence.
-- **CS 170** : Efficient Algorithms and Intractable Problems. *(In progress)*
-- **CS 186** : Introduction to Database Systems. *(In progress)*
+- **CS 162** : Operating Systems and System Programming. *(In Progress)*
+- **CS 170** : Efficient Algorithms and Intractable Problems. *(In Progress)*
+- **CS 186** : Introduction to Database Systems. *(In Progress)*
+- **EECS 149** : Introduction to Embedded Systems. *(Planned)*
 
 ## List of Projects:
 ###### *Please email to gain read-only access.*
@@ -61,8 +63,16 @@
             - Inference algorithms for Bayes Nets, specifically variable elimination and valu-of-perfect-information computation for agents to act optimally.
     - Machine Learning (*Python*):
         - Neural networks to classify handwritten digits, approximate some math functions such as trigonometry functions, perform deep Q-learning, and language identification.
+- **CS 162 - *Operating Systems and System Programming*:**
+    - Shell (*C*):
+        - Simple version of a shell that allows user to run and manage programs.
+        - The shell manages multiple processes in both back/foreground, and handles system signals to provide robust user experience.
+    - Pintos (*C*):
+        - Currently working on building a pintos operating system.
 - **CS 186 - *Introduction to Database Systems*:**
-    - To be updated...
+    - B+ Tree (*Java*):
+        - DBMS that store data efficiently in a block-oriented storage in filesystems.
+
 - More projects are coming...
 
 
